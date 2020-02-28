@@ -1,0 +1,22 @@
+#fullnamevald,#usernamevald,#emailval,#passwordval,#loginpassvald,#loginuservald{
+    display: none;
+    color: red;
+}
+#successmsg,#loginsuccessmsg{
+    display: none;
+    color: green;
+}
+.cartimg{
+    height: 80px;
+    width: 80px;
+}
+.showlist{
+    height: 338;
+    width: 350;
+    overflow: auto;
+}
+.listitemsflow{
+    height: 300px;
+    overflow-y: scroll;
+   clear: both;
+}
