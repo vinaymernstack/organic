@@ -109,7 +109,7 @@ class productdetails extends React.Component {
             <h1>Single Shop</h1>
             <nav aria-label="breadcrumb">
                <ul class="breadcrumb">
-                  <li class="breadcrumb-item"><a href="#">Home</a></li>
+                  <li class="breadcrumb-item"><a href="#">Home siddhu</a></li>
                   <li class="breadcrumb-item active" aria-current="page">Single Shop</li>
                </ul>
             </nav>
