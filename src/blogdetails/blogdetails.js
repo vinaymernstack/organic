@@ -2,7 +2,7 @@ import React    from "react";
 import Template from "./blogdetails.jsx";
 import Header from '../header/header';
 import Footer from '../footer/footer';
-
+#comment
 class blogdetails extends React.Component {
   render() {
     return (
